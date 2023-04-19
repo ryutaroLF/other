@@ -1,0 +1,4 @@
+﻿ip,name,IsInRoomFlag,ComeTime,LeaveTime
+192.168.150.188,ryutaro8,False,False,False
+192.168.150.189,ryutaro9,False,False,False
+192.168.150.190,ryutaro0,False,False,False
